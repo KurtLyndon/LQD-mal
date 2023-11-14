@@ -73,8 +73,12 @@ Download Links:
         - ***unknown***: 136 files
         - ***unknown-clamav***: 3000 files, which are divided into folders that classify malware strains similar to train 
             - ***trojan***: 2150 files 
-            - ***virus***: 575 files 
+            - ***virus***: 575 files
             - ***worm***: 13 files 
             - ***others***: 262 files 
 - Summarize the number of malware and benign and the ratio of training and test sets stored in the file: 
 ***"F://Caohoc34A/data/1_information/pre-processing/spliting-summary.xlsx"***
+  
+## **2. Processed Dataset**
+
+## **3. Experiment & Evaluation**
